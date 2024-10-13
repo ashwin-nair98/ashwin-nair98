@@ -1,12 +1,12 @@
 <img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/banner.png">
 
-<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/cowboy.png" style="height: 30;"> About Me </h2>
+<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/cowboy.png" style="height: 30px;"> About Me </h2>
 <ul>
 <li>Senior Software Developer at <a href="https://www.linkedin.com/company/amadeuslabsind/mycompany/">Amadeus Labs</a>.</li>
 <li>Currently pursuing Masters in Computer Science from <a href="https://www.gatech.edu/">Georgia Tech</a></li>
 </ul>
 
-<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/skills.png" style="height: 30;"> Skills</h2>
+<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/skills.png" style="height: 30px;"> Skills</h2>
 
 <table style="border-collapse: collapse;">
   <tr>
@@ -26,32 +26,20 @@
   </tr>
 </table>
 
-<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/project.png" style="height: 30;"> Projects</h2>
-<style>
-  .image-row {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap; /* Allows wrapping if images can't fit in one row */
-    gap: 20px; /* Adds padding between images */
-  }
-  .image-row img {
-    flex-grow: 1;
-    max-width: calc(50% - 10px); /* Tries to take up 50% of the container width minus gap */
-    min-width: 200px; /* Ensures each image has a minimum width of 200px */
-    height: auto;
-    border-radius: 10px;
-  }
-  @media (max-width: 420px) {
-    .image-row img {
-      max-width: 100%; /* On small screens, images take full width */
-    }
-  }
-</style>
+<h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/project.png" style="height: 30px;"> Projects</h2>
 
-<div class="image-row">
-  <img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/biomask.png">
-  <img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/daybook.png">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./media/biomask.png" alt="Biomask" style="border-radius: 10px; max-width: 400px; width: 100%;">
+    </td>
+    <td>
+      <img src="./media/daybook.png" alt="Daybook" style="border-radius: 10px; max-width: 400px; width: 100%;">
+    </td>
+  </tr>
+</table>
+
+
 
 
 <!-- 
