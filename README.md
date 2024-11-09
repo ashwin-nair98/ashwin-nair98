@@ -20,24 +20,8 @@
 </p>
 <h2><img src="https://github.com/ashwin-nair98/ashwin-nair98/raw/main/media/project.png" style="height: 30px;"> Projects</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="./media/biomask.png" alt="Biomask" style="border-radius: 10px; max-width: 400px; width: 100%;">
-    </td>
-    <td>
-      <img src="./media/daybook.png" alt="Daybook" style="border-radius: 10px; max-width: 400px; width: 100%;">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./media/omar.png" alt="Omar" style="border-radius: 10px; max-width: 400px; width: 100%;">
-    </td>
-  </tr>
-</table>
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwin-nair98&repo=coding&title_color=0c1838&bg_color=7fc5ff&text_color=000&hide_border=true" style="max-width: 350px;padding-right: 10px;" />
 
 <!-- 
 Color Code
